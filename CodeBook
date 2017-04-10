@@ -1,3 +1,8 @@
+#Dataset
+This script creates a tidy analysis data set (secTidySet.txt) from the 'UCI HAR dataset'. This data set contains statistics of data collected from smartphone accelerometers and gyrometers. Thirty subjects performed six different activities with smartphones attached.
+
+
+#The variables:
 x_train, y_train, x_test, y_test, subject_train and subject_test contain the data from the downloaded files.
 x_data, y_data and subject_data merge the previous datasets to further analysis.
 features contains the correct names for the x_data dataset, which are applied to the column names stored in
